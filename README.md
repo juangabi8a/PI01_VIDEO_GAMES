@@ -8,6 +8,13 @@ A lo largo del proyecto, trabajaremos con los siguientes conjuntos de datos en f
 - `output_steam_games`: Incluye el catálogo completo de videojuegos y sus categorías respectivas.
 - `australian_users_items`: Contiene información sobre todos los usuarios de la plataforma.
 
+También trabajaremos con la siguiente data en formato CSV:
+- games.csv
+- item.csv
+- reviews.csv
+
+Toda esta data con la cual vamos a trabajar en nuestro proyecto se encuentra en la siguiente dirección de Google Drive: [Enlace a Google Drive](https://drive.google.com/drive/u/1/folders/1PZvf8HIh9IwI38hS2qZVgU0tMzpcD-uq)
+
 ## Análisis de Sentimientos
 
 En la primera etapa del proyecto, realizamos el análisis de sentimientos de las reseñas dadas por los usuarios. Este proceso se automatizó mediante la librería `nltk`, que clasificó automáticamente los comentarios como positivos, negativos o neutros. Para más detalles sobre este proceso, puedes revisar el notebook `Analisis_Sentimiento.ipynb`.
